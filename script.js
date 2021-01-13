@@ -1,0 +1,15 @@
+// Função de seleção guardada na variável selectElement
+const selectElement = function(element) {
+  return document.querySelector(element);  
+};
+
+// variável de seleção do .menu-toggle
+let menuToggler = selectElement('.menu-toggle');
+
+// variável de seleção do body
+let body = selectElement('body');
+
+// Evento de click e inserção da classe open no body
+menuToggler.addEventListener('click', function() {
+  body.classList.toggle('open');
+})
