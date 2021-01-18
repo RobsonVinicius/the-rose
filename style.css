@@ -222,7 +222,17 @@ header {
   font-weight: 100;
   text-transform: uppercase;
   margin-top: .3rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 2rem; /* 1.2rem */
   letter-spacing: 3px;
   margin-right: -3px;
+}
+
+.cta-btn {
+  font-size: 1rem; /* 1.1rem */
+  background-color: #fff;
+  padding: .9rem 1.8rem;
+  text-transform: uppercase;
+  color: var(--body-font-color);
+  border-radius: .4rem;
+  transition: background-color .5s;
 }
