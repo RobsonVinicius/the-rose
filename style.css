@@ -236,3 +236,10 @@ header {
   border-radius: .4rem;
   transition: background-color .5s;
 }
+
+.cta-btn:hover,
+.cta-btn:focus {
+  color: #fff;
+  background-color: var(--secondary-font-color);
+  
+}
