@@ -179,8 +179,6 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  
-
 }
 
 .line {
@@ -240,6 +238,5 @@ header {
 .cta-btn:hover,
 .cta-btn:focus {
   color: #fff;
-  background-color: var(--secondary-font-color);
-  
+  background-color: var(--secondary-font-color);  
 }
