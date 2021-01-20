@@ -6,7 +6,7 @@
 
 :root {
   --main-font: "Source Sans Pro", sans-serif;
-  --secondary-font: "Herr Von Muellerhoff", cursive;
+  --secondary-font: 'Rouge Script', cursive;
   --body-font: "Gabin", sans-serif;
   --main-font-color-dark: #252525;
   --secondary-font-color: #c59d5f;
@@ -153,17 +153,17 @@ header {
 }
 
 .sub-headline {
-  font-size: 8.5rem; 
+  font-size: 7.5rem;  /* 8.5rem */;
   font-family: var(--secondary-font);
   color: var(--secondary-font-color);
   font-weight: 100;
   line-height: .4;
-  letter-spacing: 2px;
+  letter-spacing: -3px; /* 2px */
 }
 
 .first-letter {
   text-transform: uppercase;
-  font-size: 10rem; 
+  font-size: 11rem; /* 10rem */
 }
 
 .headline {
