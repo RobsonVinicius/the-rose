@@ -340,3 +340,8 @@ header {
   padding-top: 5.5rem; /* 3rem */
   margin-bottom: 0;
 }
+
+.perfect-blend {
+  background: url("images/perfect-blend.jpg") center no-repeat;
+  background-size: cover;
+}
