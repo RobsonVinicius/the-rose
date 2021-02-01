@@ -345,3 +345,7 @@ header {
   background: url("images/perfect-blend.jpg") center no-repeat;
   background-size: cover;
 }
+
+.culinary-delight .global-headline {
+  padding-top: 5rem;
+}
