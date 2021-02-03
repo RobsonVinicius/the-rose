@@ -20,6 +20,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 section {
   padding: 3.9rem 0;
 }
@@ -177,6 +181,7 @@ header {
   font-weight: 900;
   letter-spacing: .5rem;
   margin-right: -.5rem;
+  animation: scale .5s forwards;
 }
 
 .separator {
@@ -566,5 +571,15 @@ footer {
   100% {
     opacity: 1;
     transform: translateY(0rem)
+  }
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(2)
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1)
   }
 }
