@@ -159,6 +159,9 @@ header {
   font-weight: 100;
   line-height: .4;
   letter-spacing: -3px; /* 2px */
+  opacity: 0;
+  animation: fadeUp .5s forwards;
+  animation-delay: .5s;
 }
 
 .first-letter {
@@ -553,5 +556,15 @@ footer {
 
   .newsletter-btn {
     margin-left: 7.5rem;
+  }
+}
+
+@keyframes fadeUp {
+  0% {
+    transform: translateY(4rem)
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0rem)
   }
 }
