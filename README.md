@@ -34,7 +34,7 @@ Alternativa: https://github.com/cferdinandi/smooth-scroll
 
 ## Utilizado Scroll Reveal (Para animar elementos ao rolar a página)
 
-ScrollReveal: https://scrollrevealjs.org/
+ScrollReveal: https://scrollrevealjs.org/<br>
 Guide: https://scrollrevealjs.org/guide/hello-world.html
 
 
