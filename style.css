@@ -468,8 +468,8 @@ footer {
   padding: 1px .6rem;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
-  margin-left: 10.5rem;
+  right: 10px;
+  transform: translateY(-50%);  
 }
 
 @media screen and (min-width: 900px) {
@@ -581,7 +581,7 @@ footer {
   }
 
   .newsletter-btn {
-    margin-left: 7.5rem;
+    right: 15px;
   }
 }
 
