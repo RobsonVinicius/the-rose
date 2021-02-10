@@ -27,6 +27,14 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 <br>
 
+## FontAwesome
+
+Ícones
+
+https://fontawesome.com/
+
+<br>
+
 ## Utilizado scroll-behavior
 
 Animação de Scroll
