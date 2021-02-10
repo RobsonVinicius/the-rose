@@ -29,18 +29,18 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 ## Utilizado scroll-behavior
 
-Suporte: https://caniuse.com/?search=scroll-behavior
++ Suporte: https://caniuse.com/?search=scroll-behavior
 
-Tutorial para utilização: [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/)
++ Tutorial para utilização: [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/)
 
-Alternativa: https://github.com/cferdinandi/smooth-scroll
++ Alternativa: https://github.com/cferdinandi/smooth-scroll
 
 <br>
 
 ## Utilizado Scroll Reveal (Para animar elementos ao rolar a página)
 
-ScrollReveal: https://scrollrevealjs.org/<br>
-Guide: https://scrollrevealjs.org/guide/hello-world.html
++ ScrollReveal: https://scrollrevealjs.org/<br>
++ Guide: https://scrollrevealjs.org/guide/hello-world.html
 
 
 <!--
