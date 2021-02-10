@@ -39,7 +39,8 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 ## Utilizado Scroll Reveal (Para animar elementos ao rolar a página)
 
-+ ScrollReveal: https://scrollrevealjs.org/<br>
++ ScrollReveal: https://scrollrevealjs.org/
+
 + Guide: https://scrollrevealjs.org/guide/hello-world.html
 
 
