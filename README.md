@@ -2,14 +2,16 @@
 
 Projeto de uma Landing Page para o restaurante The Rose
 
-<br><br>
+<br>
 
 
 ![Preview Desktop The Rose](Layout/thumb.jpg)
 
+<br>
 
 ## Fontes utilizadas no projeto
-Cabin
++ Cabin <br>
+https://fonts.google.com/specimen/Cabin?preview.text_type=custom
 <!--
 + Regular 400
 + Semi-bold 600
@@ -17,8 +19,11 @@ Cabin
 + Extra-bold 800 italic
 https://fonts.google.com/specimen/Nunito+Sans
 -->
-Rouge Script
-Source Pro
++ Rouge Script <br>
+https://fonts.google.com/specimen/Rouge+Script?preview.text_type=custom
+
++ Source Pro <br>
+https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 <br>
 
