@@ -47,6 +47,7 @@ Para animar elementos ao rolar a página
 
 + Guide: https://scrollrevealjs.org/guide/hello-world.html
 
+<br>
 
 ## Layout Construído 
 Figma - https://www.figma.com/<br>
