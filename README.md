@@ -29,6 +29,8 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 ## Utilizado scroll-behavior
 
+Animação de Scroll
+
 + Suporte: https://caniuse.com/?search=scroll-behavior
 
 + Tutorial para utilização: [How to animate scrolling to anchor links with one line of CSS](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/)
@@ -37,22 +39,23 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 <br>
 
-## Utilizado Scroll Reveal (Para animar elementos ao rolar a página)
+## Utilizado Scroll Reveal
+
+Para animar elementos ao rolar a página
 
 + ScrollReveal: https://scrollrevealjs.org/
 
 + Guide: https://scrollrevealjs.org/guide/hello-world.html
 
 
-<!--
 ## Layout Construído 
 Figma - https://www.figma.com/<br>
-<!--
+
 Donwload: <br>
 + Vá até a pasta Layout 
-+ Selecione o arquivo Studo.fig
++ Selecione o arquivo The Rose.fig
 + Clique no Botão Donwload para baixar o projeto
---> 
+
 
 <br>
 
