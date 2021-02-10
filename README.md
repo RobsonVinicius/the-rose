@@ -4,9 +4,9 @@ Projeto de uma Landing Page para o restaurante The Rose
 
 <br><br>
 
-<!--
-![Preview Desktop Studo](Layout/thumbnail.png)
--->
+
+![Preview Desktop Studo](Layout/thumb.png)
+
 
 ## Fontes utilizadas no projeto
 Cabin
