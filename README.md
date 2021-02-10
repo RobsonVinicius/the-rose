@@ -5,7 +5,7 @@ Projeto de uma Landing Page para o restaurante The Rose
 <br><br>
 
 
-![Preview Desktop Studo](Layout/thumb.png)
+![Preview Desktop The Rose](Layout/thumb.jpg)
 
 
 ## Fontes utilizadas no projeto
