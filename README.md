@@ -60,7 +60,7 @@ Para animar elementos ao rolar a página
 ## Layout Construído no figma
 Figma - https://www.figma.com/<br>
 
-+ Clique no [aqui](https://github.com/RobsonVinicius/the-rose/raw/main/Layout/The%20Rose.fig) para baixar o projeto 
++ Clique [aqui](https://github.com/RobsonVinicius/the-rose/raw/main/Layout/The%20Rose.fig) para baixar o projeto 
 
 <br>
 
