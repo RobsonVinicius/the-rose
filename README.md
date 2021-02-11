@@ -62,7 +62,7 @@ Figma - https://www.figma.com/<br>
 
 + Clique no link abaixo para baixar o projeto
 
-[Donwload](https://github.com/RobsonVinicius/the-rose/raw/main/Layout/The%20Rose.fig)
++ [Donwload](https://github.com/RobsonVinicius/the-rose/raw/main/Layout/The%20Rose.fig)
 
 <br>
 
