@@ -27,7 +27,7 @@ https://fonts.google.com/specimen/Source+Sans+Pro?preview.text_type=custom
 
 <br>
 
-## FontAwesome
+## Font Awesome
 
 Ícones
 
